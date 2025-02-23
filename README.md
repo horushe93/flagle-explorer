@@ -85,3 +85,5 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 ---
 
 *Ready to test your geography knowledge? [Play Flagle Explorer now!](https://flagle.fun)*
+
+*Want to experience more geography games? [Try Globe Map Game!](https://globegame.net/)*
