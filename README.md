@@ -76,6 +76,10 @@ While the full game remains proprietary, we welcome discussions about the open-s
 - Suggest improvements
 - Share your implementations
 
+## About Us
+
++ <a href="https://bento.me/horushe" target="_blank" rel="nofollow">Horus He</a>
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
