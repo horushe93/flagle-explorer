@@ -78,7 +78,7 @@ While the full game remains proprietary, we welcome discussions about the open-s
 
 ## About Us
 
-+ <a href="https://bento.me/horushe" target="_blank" rel="nofollow">Horus He</a>
++ Author: <a href="https://bento.me/horushe" target="_blank" rel="nofollow">Horus He</a>
 
 ## License
 
